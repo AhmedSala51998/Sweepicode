@@ -80,6 +80,17 @@
     });
   }
 
+    const lang = localStorage.getItem("lang") || 'ar';
+    const footerContact = document.querySelector(".footer-contact");
+
+    if (lang === "ar") {
+      footerContact.classList.add("rtl");
+      footerContact.classList.remove("ltr");
+    } else {
+      footerContact.classList.add("ltr");
+      footerContact.classList.remove("rtl");
+    }
+
   /**********************
    * 3. Translations
    **********************/

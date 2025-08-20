@@ -8927,3 +8927,13 @@ body.mobile-nav-active .mobile-lang-btn {
   height: 16px;
   border-radius: 3px;
 }
+
+.footer-contact.rtl h4,
+.footer-contact.rtl p {
+  text-align: right;
+}
+
+.footer-contact.ltr h4,
+.footer-contact.ltr p {
+  text-align: left;
+}
