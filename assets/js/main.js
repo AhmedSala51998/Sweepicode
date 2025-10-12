@@ -4512,7 +4512,7 @@
   loader.appendChild(displayCanvas);
 
   displayCtx.font = `${fontSize}px ${fontFamily}`;
-  displayCtx.fillStyle = '#f4a835';
+  displayCtx.fillStyle = '#f36c24';
   displayCtx.textBaseline = 'top';
   displayCtx.fillText(word, 0, 0);
 
@@ -4543,7 +4543,7 @@
 
   function glow(duration = 1200) {
     shards.forEach(({el}) => {
-      el.style.boxShadow = `0 0 8px #f4a835, 0 0 20px #f4a835, 0 0 30px #f4a835`;
+      el.style.boxShadow = `0 0 8px #f36c24, 0 0 20px #f36c24, 0 0 30px #f36c24`;
       el.style.transition += `, box-shadow ${duration}ms ease-in-out`;
     });
 
