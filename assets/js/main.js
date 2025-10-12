@@ -4447,7 +4447,7 @@
   mainCanvas.width = textWidth;
   mainCanvas.height = fontSize * 1.3;
 
-  ctx.fillStyle = '#f4a835';
+  ctx.fillStyle = '#f36c24';
   ctx.font = `${fontSize}px ${fontFamily}`;
   ctx.textBaseline = 'top';
   ctx.fillText(word, 0, 0);
