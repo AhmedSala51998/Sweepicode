@@ -4492,7 +4492,7 @@
         shard.style.height = shardSize + 'px';
         shard.style.left = x + 'px';
         shard.style.top = y + 'px';
-        shard.style.backgroundColor = '#f4a835';
+        shard.style.backgroundColor = '#f36c24';
         shard.style.borderRadius = '2px';
         shard.style.willChange = 'transform, opacity';
         shardsContainer.appendChild(shard);
