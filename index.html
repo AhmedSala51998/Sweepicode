@@ -1769,7 +1769,16 @@
 
   </script>
   <script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script><script id="zsiqscript" src="https://salesiq.zohopublic.com/widget?wc=siq1a33c0b0e36f810e22f4a6eeab711977ac94303e3be3e3cecf879a95050c13fe" defer></script>
-
+<script>
+$zoho.salesiq.ready = function (embedinfo) {
+  $zoho.salesiq.visitor.trigger(function (triggername, visitorinfo) {
+    if (triggername == 'فتح الدردشة تلقائيًا') {
+      // الكود اللي يفتح نافذة الدردشة فعليًا
+      $zoho.salesiq.chat.start();
+    }
+  });
+};
+</script>
 
 </body>
 
