@@ -3207,7 +3207,7 @@
         "project_title3": "Integrated Software Services Platform",
         "project_date": "August 2025",
         "project_company3": "Software Solutions Company",
-        "project_link": "https://codeyla.com",
+        "project_link": "https://sweepicode.com",
         "tag_software_dev": "Software Development",
         "tag_ui_design": "UI Design",
         "tag_tech_services": "Tech Services",
