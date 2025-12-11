@@ -979,7 +979,7 @@
         "project_title1": "موقع تجارة إلكترونية متطور",
         "project_date": "أغسطس 2025",
         "project_client1": "شركة التجارة الرقمية",
-        "project_link": "https://bootstrapmade.com/content/demo/NiceShop/",
+        "project_link100": "https://bootstrapmade.com/content/demo/NiceShop/",
 
         "tag_ecommerce": "تجارة إلكترونية",
         "tag_ux_design": "تصميم UX",
@@ -1056,7 +1056,7 @@
         "project_title3": "منصة خدمات برمجية متكاملة",
         "project_date": "أغسطس 2025",
         "project_company3": "شركة الحلول البرمجية",
-        "project_link": "https://sweepicode.com",
+        "project_link300": "https://sweepicode.com",
         "tag_software_dev": "تطوير برمجيات",
         "tag_ui_design": "تصميم واجهات",
         "tag_tech_services": "خدمات تقنية",
@@ -1140,7 +1140,7 @@
         "project_title5": "موقع إلكتروني لمطعم فاخر",
         "project_date": "يوليو 2025",
         "project_client5": "مطعم سافورا",
-        "project_link": "https://bootstrapmade.com/content/demo/Savora/",
+        "project_link200": "https://bootstrapmade.com/content/demo/Savora/",
 
         "tag_restaurant_website": "موقع مطعم",
         "tag_ux_design": "تصميم UX",
@@ -3130,7 +3130,7 @@
         "project_title1": "Advanced E-Commerce Website",
         "project_date": "August 2025",
         "project_client1": "Digital Commerce Company",
-        "project_link": "https://bootstrapmade.com/content/demo/NiceShop/",
+        "project_link100": "https://bootstrapmade.com/content/demo/NiceShop/",
         
         "tag_ecommerce": "E-Commerce",
         "tag_ux_design": "UX Design",
@@ -3207,7 +3207,7 @@
         "project_title3": "Integrated Software Services Platform",
         "project_date": "August 2025",
         "project_company3": "Software Solutions Company",
-        "project_link": "https://sweepicode.com",
+        "project_link300": "https://sweepicode.com",
         "tag_software_dev": "Software Development",
         "tag_ui_design": "UI Design",
         "tag_tech_services": "Tech Services",
@@ -3291,7 +3291,7 @@
         "project_title5": "Luxury Restaurant Website",
         "project_date": "July 2025",
         "project_client5": "Savora Restaurant",
-        "project_link": "https://bootstrapmade.com/content/demo/Savora/",
+        "project_link200": "https://bootstrapmade.com/content/demo/Savora/",
 
         "tag_restaurant_website": "Restaurant Website",
         "tag_ux_design": "UX Design",
