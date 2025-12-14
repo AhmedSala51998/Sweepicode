@@ -336,6 +336,10 @@
         "restaurant_site": "موقع لإدارة مطعم",
         "restaurant_site_desc": "موقع لإدارة منتجات مطعم",
 
+        
+        "moutaen_site": "موقع موطن للاستقدام",
+        "moutaen_site_desc": "موقع لاستقدام العمالة المنزلية",
+
         "recruitment_site": "موقع شركة استقدام",
         "recruitment_site_desc": "استقدام العمالة من الخارج",
 
@@ -2264,6 +2268,9 @@
         "business_performance_boost": "Boosting Business Performance through Strategic Solutions",
         "business_strategic_solutions": "In today's business world, excellence depends not only on the quality of the product or service but also on the organization's ability to implement innovative strategic solutions that enhance efficiency and competitiveness. Strategic solutions are no longer optional—they are an essential foundation for success and sustainability.",
         "request_consultation": "Request Consultation",
+
+        "moutaen_site": "Moutaen Recruitment Website",
+        "moutaen_site_desc": "A platform for recruiting domestic workers",
 
         "service_dev_systems": "Systems and Software Development",
         "service_dev_systems_desc": "Design and develop high-quality custom web applications using the latest technologies to ensure performance and flexibility.",
