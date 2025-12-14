@@ -3173,6 +3173,8 @@
         "project_title2": "Professional Recruitment Company Website",
         "project_date": "August 2025",
         "project_company2": "Ejaz Recruitment Company",
+        "project_company100": "شركة موطن للاستقدام",
+        "project_company100": "Moutaen Recruitment Company",
         "tag_recruitment_site": "Recruitment Website",
         "tag_professional_design": "Professional Design",
         "tag_direct_contact": "Direct Contact",
