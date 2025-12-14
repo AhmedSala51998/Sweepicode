@@ -340,6 +340,10 @@
         "moutaen_site": "موقع موطن للاستقدام",
         "moutaen_site_desc": "موقع لاستقدام العمالة المنزلية",
 
+                
+        "afaq_site": "موقع افاق مساند للاستقدام",
+        "afaq_site_desc": "موقع لاستقدام العمالة المنزلية",
+
         "recruitment_site": "موقع شركة استقدام",
         "recruitment_site_desc": "استقدام العمالة من الخارج",
 
@@ -2272,6 +2276,9 @@
         "moutaen_site": "Moutaen Recruitment Website",
         "moutaen_site_desc": "A platform for recruiting domestic workers",
 
+        "afaq_site": "Afaq Musaned Recruitment Website",
+        "afaq_site_desc": "A platform for recruiting domestic workers",
+
         "service_dev_systems": "Systems and Software Development",
         "service_dev_systems_desc": "Design and develop high-quality custom web applications using the latest technologies to ensure performance and flexibility.",
 
@@ -3181,7 +3188,7 @@
         "project_date": "August 2025",
         "project_company2": "Ejaz Recruitment Company",
         "project_company100": "شركة موطن للاستقدام",
-        "project_company100": "Moutaen Recruitment Company",
+        "project_company200": "شركة افاق مساند للاستقدام",
         "tag_recruitment_site": "Recruitment Website",
         "tag_professional_design": "Professional Design",
         "tag_direct_contact": "Direct Contact",
@@ -3468,6 +3475,9 @@
         "future_cloud_text": "Processing massive data quickly and accurately.",
         "future_deep_learning": "Deep Learning",
         "future_deep_learning_text": "Complex models that mimic human thinking patterns.",
+
+        "project_company100": "Moutaen Recruitment Company",
+        "project_company200": "Afaq Musaned Recruitment Company",
 
         "related_topics": "Related Topics",
         "tag_ai": "Artificial Intelligence",
