@@ -344,6 +344,12 @@
         "afaq_site": "موقع افاق مساند للاستقدام",
         "afaq_site_desc": "موقع لاستقدام العمالة المنزلية",
 
+        "tafarrod_site": "موقع التفرد للاستقدام",
+        "tafarrod_site_desc": "موقع لاستقدام العمالة المنزلية",
+
+        "platinum_site": "موقع بلاتينيوم الشرقية للاستقدام",
+        "platinum_site_desc": "موقع لاستقدام العمالة المنزلية",
+
         "recruitment_site": "موقع شركة استقدام",
         "recruitment_site_desc": "استقدام العمالة من الخارج",
 
@@ -2279,6 +2285,12 @@
         "afaq_site": "Afaq Musaned Recruitment Website",
         "afaq_site_desc": "A platform for recruiting domestic workers",
 
+        "tafarrod_site": "Al-Tafarrud Recruitment Website",
+        "tafarrod_site_desc": "A platform for recruiting domestic workers",
+
+        "platinum_site": "Platinum Eastern Recruitment Website",
+        "platinum_site_desc": "A platform for recruiting domestic workers",
+
         "service_dev_systems": "Systems and Software Development",
         "service_dev_systems_desc": "Design and develop high-quality custom web applications using the latest technologies to ensure performance and flexibility.",
 
@@ -3189,6 +3201,8 @@
         "project_company2": "Ejaz Recruitment Company",
         "project_company100": "شركة موطن للاستقدام",
         "project_company200": "شركة افاق مساند للاستقدام",
+        "project_company300": "شركة التفرد للاستقدام",
+        "project_company400": "شركة بلاتينيوم الشرقية للاستقدام",
         "tag_recruitment_site": "Recruitment Website",
         "tag_professional_design": "Professional Design",
         "tag_direct_contact": "Direct Contact",
@@ -3478,6 +3492,8 @@
 
         "project_company100": "Moutaen Recruitment Company",
         "project_company200": "Afaq Musaned Recruitment Company",
+        "project_company300": "Al-Tafarrud Recruitment Company",
+        "project_company400": "Platinum Eastern Recruitment Company",
 
         "related_topics": "Related Topics",
         "tag_ai": "Artificial Intelligence",
