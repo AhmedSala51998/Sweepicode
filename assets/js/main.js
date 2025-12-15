@@ -344,11 +344,26 @@
         "afaq_site": "موقع افاق مساند للاستقدام",
         "afaq_site_desc": "موقع لاستقدام العمالة المنزلية",
 
+        "haien_site": "موقع هين للمصادر البشرية والاستقدام",
+        "haien_site_desc": "موقع لاستقدام العمالة المنزلية",
+
         "tafarrod_site": "موقع التفرد للاستقدام",
         "tafarrod_site_desc": "موقع لاستقدام العمالة المنزلية",
 
         "platinum_site": "موقع بلاتينيوم الشرقية للاستقدام",
         "platinum_site_desc": "موقع لاستقدام العمالة المنزلية",
+
+                        
+        "sahl_site": "موقع سهل ساند للاستقدام",
+        "sahl_site_desc": "موقع لاستقدام العمالة المنزلية",
+
+                        
+        "jeddah_site": "موقع جدة السريع للاستقدام",
+        "jeddah_site_desc": "موقع لاستقدام العمالة المنزلية",
+
+                        
+        "taraf_site": "موقع ترف الأعمال للاستقدام",
+        "taraf_site_desc": "موقع لاستقدام العمالة المنزلية",
 
         "recruitment_site": "موقع شركة استقدام",
         "recruitment_site_desc": "استقدام العمالة من الخارج",
@@ -2056,6 +2071,15 @@
         "course_discount": "خصم 29%",
         "enrolled_students": "2,900 طالب مسجل",
 
+        "project_company100": "شركة موطن للاستقدام",
+        "project_company200": "شركة افاق مساند للاستقدام",
+        "project_company300": "شركة التفرد للاستقدام",
+        "project_company400": "شركة بلاتينيوم الشرقية للاستقدام",
+        "project_company500": "شركة هين للمصادر البشرية والاستقدام",
+        "project_company600": "شركة سهل ساند للاستقدام",
+        "project_company700": "مكتب جدة السريع للاستقدام",
+        "project_company800": "شركة ترف الأعمال للاستقدام",
+
         "highlight_certificate": "شهادة معتمدة",
         "highlight_duration": "30 ساعة محتوى",
         "highlight_downloads": "مواد قابلة للتحميل",
@@ -2363,6 +2387,15 @@
 
         "ai_data_title": "Data Analysis and Artificial Intelligence",
         "ai_data_desc": "Using AI technologies to analyze data and make smart decisions.",
+
+        "sahl_site": "Sahl Sand Recruitment Website",
+        "sahl_site_desc": "A website for domestic worker recruitment",
+
+        "jeddah_site": "Jeddah Al-saria Recruitment Website",
+        "jeddah_site_desc": "A website for domestic worker recruitment",
+
+        "taraf_site": "Taraf Al-Amaal Recruitment Website",
+        "taraf_site_desc": "A website for domestic worker recruitment",
 
         "custom_web_dev_title": "Custom Web Application Development",
         "custom_web_dev_desc1": "We provide full web development services using the latest technologies to ensure high speed and security.",
@@ -2678,6 +2711,9 @@
         "info_reports_value": "Detailed periodic reports",
         "info_support": "Support:",
         "info_support_value": "Available 24/7",
+
+        "haien_site": "Haien Human Resources & Recruitment Website",
+        "haien_site_desc": "A website for recruiting domestic workers",
 
         "contact_help": "Need Help?",
         "contact_desc": "We are happy to answer all your inquiries and provide you with the right support anytime.",
@@ -3115,6 +3151,11 @@
         "feature_scalability": "Scalability & Customization",
         "feature_scalability_desc": "Flexible development that can grow with your future needs.",
 
+        "project_company500": "Haien Human Resources & Recruitment Company",
+        "project_company600": "Sahl Sand Recruitment Company",
+        "project_company700": "Jeddah Fast Recruitment Office",
+        "project_company800": "Taraf Al-Amaal Recruitment Company",
+
         "process_title": "Our Work Process",
         "process_step1": "Needs Analysis",
         "process_step1_desc": "We meet with you to understand your vision and requirements in detail.",
@@ -3199,10 +3240,6 @@
         "project_title2": "Professional Recruitment Company Website",
         "project_date": "August 2025",
         "project_company2": "Ejaz Recruitment Company",
-        "project_company100": "شركة موطن للاستقدام",
-        "project_company200": "شركة افاق مساند للاستقدام",
-        "project_company300": "شركة التفرد للاستقدام",
-        "project_company400": "شركة بلاتينيوم الشرقية للاستقدام",
         "tag_recruitment_site": "Recruitment Website",
         "tag_professional_design": "Professional Design",
         "tag_direct_contact": "Direct Contact",
